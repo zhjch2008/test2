@@ -11,6 +11,7 @@ namespace ConsoleApp1
             //ceshi
 
             Console.WriteLine( "hello 2" );
+            Console.ReadLine();
         }
     }
 }
